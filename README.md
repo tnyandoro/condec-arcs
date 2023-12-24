@@ -1,6 +1,5 @@
 # **Paramount Architect and Constructions**
 
-
 Welcome to the README file for the website of our esteemed Architect and
 Construction Company. This website is designed and developed using HTML,
 CSS, and JavaScript to showcase our portfolio, services, and expertise
@@ -8,20 +7,20 @@ in the field of architecture and construction.
 
 ## **Table of Contents**
 
--   [Overview](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#overview)
+- [Overview](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#overview)
 
--   [Features](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#features)
+- [Features](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#features)
 
--   [Installation](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#installation)
+- [Installation](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#installation)
 
--   [Usage](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#usage)
+- [Usage](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#usage)
 
--   [Technologies
-    > Used](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#technologies-used)
+- [Technologies
+    > Used](<https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#technologies-used>)
 
--   [Contributing](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#contributing)
+- [Contributing](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#contributing)
 
--   [License](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#license)
+- [License](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#license)
 
 ## **Overview**
 
@@ -33,23 +32,23 @@ interface to explore our projects and get in touch with us.
 
 ## **Features**
 
-1.  Homepage: A visually appealing landing page introducing our company
+1. Homepage: A visually appealing landing page introducing our company
     > and highlighting our key projects.
 
-2.  Portfolio: A comprehensive portfolio showcasing our past and ongoing
+2. Portfolio: A comprehensive portfolio showcasing our past and ongoing
     > projects. Each project includes details such as project
     > description, images, and key features.
 
-3.  Services: Detailed information about the services we provide,
+3. Services: Detailed information about the services we provide,
     > ranging from architectural design to construction management.
 
-4.  Contact Us: An interactive contact form and contact information for
+4. Contact Us: An interactive contact form and contact information for
     > users to reach out to us easily.
 
-5.  About Us: A section that provides background information about our
+5. About Us: A section that provides background information about our
     > company, our team, and our values.
 
-6.  Responsive Design: The website is designed to be responsive,
+6. Responsive Design: The website is designed to be responsive,
     > ensuring a seamless experience across various devices, including
     > desktops, tablets, and smartphones.
 
@@ -57,28 +56,28 @@ interface to explore our projects and get in touch with us.
 
 To deploy this website locally, follow these steps:
 
-1.  Clone the repository:
+1. Clone the repository:
 
-2.  bash
+2. bash
 
-3.  Copy code
+3. Copy code
 
 git clone
-https://github.com/your-username/architect-construction-website.git
+<https://github.com/your-username/architect-construction-website.git>
 
 4.  
 
-5.  Open the project folder:
+5. Open the project folder:
 
-6.  bash
+6. bash
 
-7.  Copy code
+7. Copy code
 
 cd architect-construction-website
 
 8.  
 
-9.  Open the index.html file in your preferred web browser.
+9. Open the index.html file in your preferred web browser.
 
 ## **Usage**
 
@@ -88,11 +87,11 @@ images, and contact information in the HTML files.
 
 ## **Technologies Used**
 
--   HTML5
+- HTML5
 
--   CSS3
+- CSS3
 
--   JavaScript
+- JavaScript
 
 ## **Contributing**
 
