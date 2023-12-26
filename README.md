@@ -15,8 +15,7 @@ in the field of architecture and construction.
 
 - [Usage](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#usage)
 
-- [Technologies
-    > Used](<https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#technologies-used>)
+- [Paramount](https://tnyandoro.github.io/paramount-arcs/)
 
 - [Contributing](https://chat.openai.com/c/0d7a8e86-34bd-4396-a989-8e1c377c0375#contributing)
 
